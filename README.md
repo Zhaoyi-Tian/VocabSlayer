@@ -4,7 +4,7 @@
 
 简单打包后的exe文件可以从https://disk.pku.edu.cn/link/AAF4F7FB18E4C4480AB6CFED667221EC7A下载
 
-演示视频可以在【PKU程序设计实习Qt大作业视频】https://www.bilibili.com/video/BV1zL7Pz6EQ8?vd_source=160d57a63e0ce219c87cdcdf1188c38a观看
+演示视频可以在[PKU程序设计实习Qt大作业视频](https://www.bilibili.com/video/BV1zL7Pz6EQ8?vd_source=160d57a63e0ce219c87cdcdf1188c38a)观看
 
 qfluentwidgets官网在[QFluentWidgets - 在设计师中拖拖拽拽，无需书写 QSS，即可快速构建美观的界面](https://qfluentwidgets.com/zh/)
 
