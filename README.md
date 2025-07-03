@@ -10,3 +10,4 @@ qfluentwidgets官网在[QFluentWidgets - 在设计师中拖拖拽拽，无需书
 
 由田照亿负责UI设计，有问题可加q**503761171**
 
+![image-20250703154423181](..\images\image-20250703154423181.png)
